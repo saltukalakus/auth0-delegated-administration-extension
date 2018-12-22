@@ -22,7 +22,7 @@
     "prepare": "npm run snyk-protect"
   },
   "keywords": [
-    "auth0"
+    "saltuk"
   ],
   "auth0-extension": {
     "externals": [
