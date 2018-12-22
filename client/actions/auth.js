@@ -184,7 +184,7 @@ export function loadCredentials() {
           });
         }
 
-        const returnTo = sessionStorage.getItem('delegated-admin:returnTo');
+        const returnTo = sessionStorage.getItem('delegated-admin:returnTo') || '/users';
         sessionStorage.removeItem('delegated-admin:returnTo');
         return processTokens(dispatch, hash.idToken, returnTo);
       });
