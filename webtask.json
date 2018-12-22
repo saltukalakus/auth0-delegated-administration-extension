@@ -1,8 +1,8 @@
 {
-  "title": "Delegated Administration Dashboard",
+  "title": "Saltuk's Delegated Administration Dashboard",
   "name": "auth0-delegated-admin",
-  "version": "3.4.0",
-  "author": "auth0",
+  "version": "3.4.1",
+  "author": "saltuk",
   "useHashName": false,
   "description": "This extension allows non-dashboard administrators to manage (a subset of) users.",
   "type": "application",
