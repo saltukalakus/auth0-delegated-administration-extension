@@ -1,6 +1,6 @@
 {
   "title": "Saltuk's Delegated Administration Dashboard",
-  "name": "auth0-delegated-admin",
+  "name": "saltuk-delegated-admin",
   "version": "3.4.1",
   "author": "saltuk",
   "useHashName": false,
@@ -12,7 +12,7 @@
   "docsUrl": "https://auth0.com/docs/extensions/delegated-admin",
   "repository": "https://github.com/auth0-extensions/auth0-delegated-administration-extension",
   "keywords": [
-    "auth0",
+    "saltuk",
     "extension"
   ],
   "auth0": {
